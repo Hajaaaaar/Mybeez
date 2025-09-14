@@ -1,0 +1,7 @@
+package com.Mybeez.TeamB.TeamB.repository;
+
+import com.Mybeez.TeamB.TeamB.model.UserProfile;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserProfileRepository extends JpaRepository<UserProfile, Long> {
+}
