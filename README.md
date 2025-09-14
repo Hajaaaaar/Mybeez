@@ -63,7 +63,7 @@ Backend runs on [http://localhost:8080](http://localhost:8080).
 
 ### Explore Page
 
-![Explore Page](./assets/explore.png)
+![Explore Page](./assets/Explore.png)
 
 ### Experience Detail Page
 
