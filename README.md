@@ -67,7 +67,7 @@ Backend runs on [http://localhost:8080](http://localhost:8080).
 
 ### Experience Detail Page
 
-![Experience Page](./assets/experience.png)
+![Experience Page](./assets/ExperienceDetail.png)
 
 ### Admin Page
 
